@@ -1,0 +1,19 @@
+
+
+.expenses-filter {
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: white;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.chooseYear {
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-left: 678px;
+    margin-top: 0px;
+}
